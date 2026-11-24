@@ -51,3 +51,4 @@ Maven
 
 JUnit
 
+[maven commands weren't working properly on my app, still trying to figure out how to fix my VS code]
